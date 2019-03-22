@@ -54,7 +54,7 @@ namespace NPCPerks
                 }
 
             }
-            //Mostrar caracteristicas
+            //Mostrar caracteristicas 
             for (int i = 0; i < nNPC; i++)
             {
                 //Mostrar caracteristicas do NPC atual
