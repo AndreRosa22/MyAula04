@@ -8,6 +8,8 @@ namespace GitBranching
         {
             
             Console.WriteLine("Adeus");
+
+            Console.WriteLine("Bye");
         }
     }
 }
